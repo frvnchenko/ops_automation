@@ -1,0 +1,334 @@
+{
+  "abs": "ЦФТ",
+  "hub": null,
+  "kep": false,
+  "rko": "есть РКО",
+  "roo": "РОО «Бизнес крендель»",
+  "vip": null,
+  "city": "бади",
+  "okato": "3401369000",
+  "oktmo": "3700000000",
+  "rooBg": "РОО «сладкий тест»",
+  "branch": "Филиал № 2282 Банка ВТБ (публичное акционерное общество) в г. Москве",
+  "kpaRoo": "1228",
+  "region": null,
+  "status": "открытая",
+  "address": "414053, Московская область, г. Москва, ул. Яблочковая, д. 33 лит. Б",
+  "cluster": "5 - более 300 тыс.",
+  "hasRamp": "Y",
+  "hasWifi": "N",
+  "hubCode": null,
+  "misCode": null,
+  "network": "тест",
+  "pkbCode": "29560",
+  "premium": "Офис Привилегия",
+  "tfuCabs": null,
+  "branchRb": "тестовый филиал",
+  "district": "ЮФО",
+  "hasPPRKO": "Y",
+  "latitude": "59.1234500",
+  "moveDate": null,
+  "openDate": "16.11.2011",
+  "projects": [
+    {
+      "plannedDate": "30.09.2023",
+      "projectType": "Закрытие",
+      "plannedPeriod": {
+        "year": 2023,
+        "quarter": 3
+      },
+      "additionalInfo": null
+    }
+  ],
+  "chiefName": null,
+  "closeDate": "30.09.2022",
+  "easupCode": "Z1420",
+  "longitude": "57.1234500",
+  "openHours": [
+    {
+      "days": "вт",
+      "hours": "10:30-19:30"
+    },
+    {
+      "days": "пн",
+      "hours": "09:00-19:00"
+    },
+    {
+      "days": "ср",
+      "hours": "10:00-19:00"
+    },
+    {
+      "days": "чт",
+      "hours": "10:00-19:00"
+    },
+    {
+      "days": "пт",
+      "hours": "10:00-19:00"
+    },
+    {
+      "days": "сб",
+      "hours": "выходной"
+    },
+    {
+      "days": "вс",
+      "hours": "выходной"
+    }
+  ],
+  "rooBgCity": "Астрахань",
+  "rooBgCode": "1020",
+  "servesSmb": "Y",
+  "trialName": "",
+  "tuSarCode": "Br_50097022",
+  "vtbMobile": "Y",
+  "branchCode": "00055",
+  "department": "УРБ",
+  "insideDars": null,
+  "newBisCode": "1720",
+  "officeType": "тестовое",
+  "oldBisCode": null,
+  "branchRbBik": null,
+  "directorate": "ДРКК Поволжского региона",
+  "topAffluent": "N",
+  "utcTimeZone": "UTC+6",
+  "branchCodeRb": null,
+  "metroStation": "метро метро метро оооо 2",
+  "orgStructure": null,
+  "rooBgManager": "Фамилия Имя Отчество",
+  "salePointAbs": "ЕФР, Бисквит, Спектрум, СУО, СЛК, Ирбис, Аналитика, Жира,Тесса",
+  "salePointBik": "040349758",
+  "salePointFax": null,
+  "shortAddress": "г. Астрахань, ул. Яблочковe, д. 51 лит. Desert",
+  "hasBiometrics": "N",
+  "hasVipParking": null,
+  "parentBisCode": "R1020",
+  "regionalGroup": "Регионы",
+  "salePointCode": "000037",
+  "salePointName": "ОО «Филиал № 5440",
+  "transformDate": null,
+  "additionalInfo": null,
+  "fullOfficeName": "Операционный офис «Болдинский» в г. Астрахани Филиала № 2351 Банка ВТБ (публичное акционерное общество) в г. Краснодаре",
+  "salePointEmail": "нет",
+  "servedBusiness": "ФЛ (Филиал)",
+  "crmCodeActiveSp": "772054",
+  "dsSalePointCode": "4003",
+  "intrabankFormat": "ОО",
+  "salePointFormat": "Прайм (РБ) БФКО",
+  "salePointPcCode": null,
+  "shortOfficeName": "тестовый 2",
+  "suoAvailability": "Y",
+  "cashboxOpenHours": [
+    {
+      "days": "вт",
+      "hours": "10:00-20:00"
+    },
+    {
+      "days": "пн",
+      "hours": "10:00-20:00"
+    },
+    {
+      "days": "ср",
+      "hours": "10:00-20:00"
+    },
+    {
+      "days": "чт",
+      "hours": "10:00-20:00"
+    },
+    {
+      "days": "пт",
+      "hours": "10:00-20:00"
+    },
+    {
+      "days": "сб",
+      "hours": "10:00-20:00"
+    },
+    {
+      "days": "вс",
+      "hours": "10:00-20:00"
+    }
+  ],
+  "crmSalePointCode": "23002003",
+  "reassignmentDate": "16.11.2011",
+  "salePointEngName": "OO «Boldinskiy»",
+  "salePointKppCode": "231043002",
+  "salePointVspCode": null,
+  "hasSafeDepositBox": "Y",
+  "headOfDirectorate": "Фамилия И.",
+  "judicalSectorName": "",
+  "salePointMbankCode": "235035",
+  "salePointMunsiCode": "23002003",
+  "temporaryOHEndDate": "14.12.2024",
+  "temporaryOpenHours": [
+    {
+      "days": "вт",
+      "hours": "14:06-20:00"
+    },
+    {
+      "days": "пн",
+      "hours": "14:06-20:00"
+    },
+    {
+      "days": "ср",
+      "hours": "14:06-20:00"
+    },
+    {
+      "days": "чт",
+      "hours": "14:06-20:00"
+    },
+    {
+      "days": "пт",
+      "hours": "14:06-20:00"
+    },
+    {
+      "days": "сб",
+      "hours": "14:06-20:00"
+    },
+    {
+      "days": "вс",
+      "hours": "14:06-20:00"
+    }
+  ],
+  "openHoursIndividual": [
+    {
+      "days": "сб",
+      "hours": "13:01-18:00"
+    },
+    {
+      "days": "пн",
+      "hours": "13:01-20:00"
+    },
+    {
+      "days": "вс",
+      "hours": "13:01-20:00"
+    }
+  ],
+  "salePointMasterCode": "V0039902",
+  "smbExecutiveManager": "Фамилия И.",
+  "trialNameIndividual": "Ленинский районный суд г. Астрахани",
+  "salePointPhoneNumber": "+7(991)329-32-80",
+  "temporaryOHStartDate": "09.12.2024",
+  "virtualSalePointCode": null,
+  "virtualSalePointType": null,
+  "salePointServiceFormat": "16 - (нет_РКО)",
+  "adjustedSpServiceFormat": "16 - (нет_РКО)",
+  "cashboxEndDateTemporary": "14.12.2024",
+  "holidayCashboxOpenHours": [
+    {
+      "day": "24.09.2024",
+      "hours": "10:00-19:00"
+    }
+  ],
+  "salePointAssignmentCode": "1720",
+  "salePointCodeDescendant": "1720",
+  "virtualSalePointUnitCode": null,
+  "cashboxStartDateTemporary": "09.12.2024",
+  "salePointCodeDescendantFl": [
+    "0001",
+    "21319",
+    "1720"
+  ],
+  "salePointCodeDescendantUl": [
+    "0001",
+    "21319",
+    "1720"
+  ],
+  "temporaryCashboxOpenHours": [
+    {
+      "days": "вт",
+      "hours": "13:01-20:00"
+    },
+    {
+      "days": "пн",
+      "hours": "13:01-20:00"
+    },
+    {
+      "days": "ср",
+      "hours": "13:01-20:00"
+    },
+    {
+      "days": "чт",
+      "hours": "13:02-20:00"
+    },
+    {
+      "days": "пт",
+      "hours": "13:03-20:00"
+    },
+    {
+      "days": "сб",
+      "hours": "13:04-20:00"
+    },
+    {
+      "days": "вс",
+      "hours": "13:05-20:00"
+    }
+  ],
+  "salePointCodeDescendantCib": [
+    "0001",
+    "21319",
+    "1720"
+  ],
+  "holidayOpenHoursIndividuals": [
+    {
+      "day": "24.09.2024",
+      "hours": "выходной"
+    }
+  ],
+  "judicalSectorNameIndividual": "Судебный участок мирового судьи № 1 Ленинского района г. Астрахани",
+  "temporaryOpenHoursIndividual": [
+    {
+      "days": "вт",
+      "hours": "12:06-20:00"
+    },
+    {
+      "days": "пн",
+      "hours": "12:06-20:00"
+    },
+    {
+      "days": "ср",
+      "hours": "12:06-20:00"
+    },
+    {
+      "days": "чт",
+      "hours": "12:06-20:00"
+    },
+    {
+      "days": "пт",
+      "hours": "12:06-20:00"
+    },
+    {
+      "days": "сб",
+      "hours": "12:06-20:00"
+    },
+    {
+      "days": "вс",
+      "hours": "12:06-20:00"
+    }
+  ],
+  "salePointMasterCodeDescendant": "V0039903",
+  "salePointCodeDescendantPremium": [
+    "0001",
+    "0101",
+    "21319",
+    "1720"
+  ],
+  "salePointCodeDescendantZpProjects": [
+    "0001",
+    "0101",
+    "21319",
+    "1720"
+  ],
+  "salePointCodeDescendantIpotekaSale": [
+    "0001",
+    "0101",
+    "21319",
+    "1720"
+  ],
+  "salePointCodeDescendantIpotekaSopr": [
+    "0001",
+    "0101",
+    "21319",
+    "1720"
+  ],
+  "smbBranchCbrfRegNumber": null,
+  "rbBranchCbrfRegNumber": null,
+  "cibBranchCbrRegNumber": null
+}

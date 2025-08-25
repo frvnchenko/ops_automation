@@ -1,0 +1,19 @@
+# Основные зависимости для pytest
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-html==3.2.0
+pytest-xdist==3.3.1
+
+# Дополнительные плагины для pytest
+pytest-order==1.1.0
+pytest-mock==3.11.1
+pytest-asyncio==0.21.1
+
+# Для генерации отчетов
+coverage==7.3.2
+
+# Для работы с YAML конфигурацией
+PyYAML==6.0.1
+
+# Для логирования и отладки
+colorlog==6.7.0
